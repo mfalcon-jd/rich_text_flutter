@@ -11,7 +11,7 @@ class Home extends StatelessWidget {
     String htmlContent = """
 <body>
 <p style="font-size:1.5em;">
-Hello <b style="font-style:italic;color:#bb0000;background:#eeff00">World</b>!!
+Hello <b style="font-style:italic;color:#bb0000;background-color:#eeff00">World</b>!!
 <br/>
 How are you <span style="font-family:RobotoBlack;color:#ff0000;">today?</span>
 <br/>

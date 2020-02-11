@@ -56,7 +56,7 @@ class Parser {
           textStyle = StyleGenUtils.addFontColor(textStyle, value);
           break;
 
-        case "background":
+        case "background-color":
           textStyle = StyleGenUtils.addBgColor(textStyle, value);
           break;
 
